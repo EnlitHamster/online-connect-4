@@ -1,0 +1,35 @@
+{
+  "name": "connect-4",
+  "version": "0.1.0",
+  "description": "A TypeScript Connect 4 game to run wherever you want.",
+  "main": "index.js",
+  "scripts": {
+    "serve": "parcel index.html",
+    "test": "test-c4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnlitHamster/online-connect-4.git"
+  },
+  "keywords": [
+    "typescript",
+    "connect",
+    "four",
+    "online"
+  ],
+  "author": "EnlitHamster",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EnlitHamster/online-connect-4/issues"
+  },
+  "homepage": "https://github.com/EnlitHamster/online-connect-4#readme",
+  "devDependencies": {
+    "@types/react": "^17.0.6",
+    "@types/react-dom": "^17.0.5",
+    "typescript": "^4.2.4"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
