@@ -1,4 +1,4 @@
-import './TSEngine/Engine';
+import { Engine } from './TSEngine/Engine';
 
 window.onload = function () 
 {

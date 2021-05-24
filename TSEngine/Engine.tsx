@@ -1,5 +1,3 @@
-import * as mat4 from 'gl-mat4';
-
 import * as ReactDOM from 'react-dom';
 import * as React from 'react';
 
