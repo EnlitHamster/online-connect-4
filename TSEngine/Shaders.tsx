@@ -1,3 +1,5 @@
+/// <reference path="./Engine.tsx" />
+
 namespace TSEngine
 {
 
@@ -31,7 +33,7 @@ namespace TSEngine
             fragmentSrc: string
         ): void
         {
-            let shader: WebGLShader = 
+            let shader: WebGLShader = gl.createShaders();
         }
     }
 }
