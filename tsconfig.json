@@ -15,14 +15,6 @@
             "es5",
             "dom"
         ],
-    },
-    "include": [
-        "**/*.ts",
-        "**/*.tsx"
-    ],
-    "exclude": [
-        "node_modules",
-        "**/*.spec.ts",
-        "**/*.d.ts"
-    ]
+        "moduleResolution": "node",
+    }
 }
